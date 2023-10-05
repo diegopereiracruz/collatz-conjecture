@@ -1,6 +1,8 @@
 var x = undefined;
 var arrayDeValores = [];
 
+// teste :)
+
 while (x != "Q") {
     x = prompt("Conjectura de Collatz\n\na: o que é?\nc: créditos\nq: sair\n\nDigite um número natural inteiro:");
     
